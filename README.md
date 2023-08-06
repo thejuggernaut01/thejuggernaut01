@@ -4,7 +4,7 @@
 <h3 align="center">Motto: Stay Hungry, Stay Foolish</h3>
 <h3 align="center">Isaiah 40:31 -> they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.</h3>
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width='400' align="right" alt="animated coding gif" />
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width='300' align="right" alt="animated coding gif" />
 
 
 - 🔭 I’m currently working on **HOFE**
