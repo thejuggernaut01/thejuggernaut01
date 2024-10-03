@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Ayoola Adewale</h1>
-<h3 align="center">A passionate frontend developer from earth</h3>
+<h3 align="center">A passionate Full-Stack Engineer</h3>
 
 <h3 align="center">Motto: Stay Hungry, Stay Foolish</h3>
 <h3 align="center">Isaiah 40:31 -> they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.</h3>
@@ -7,17 +7,17 @@
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width='300' align="right" alt="animated coding gif" display="block" />
 
 
-- 🔭 I’m currently working on **HOFE**
+- 🔭 I’m currently working on **Read Sphere, A social network for book lovers**
 
-- 🌱 I’m currently learning **Typescript, GSAP**
+- 🌱 I’m currently learning **Golang, Distributed system**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to reach me **adewaleayoola.coding@gmail.com**
 
-- Check out my portfolio **https://aythejuggernaut.vercel.app**
+- Check out my portfolio **https://aythejuggernaut.vercel.app/about**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1p5ldKBLVd_6W--HnuTahmTNHUtDAf_wQcPy_9k8dshQ/edit?usp=sharing](https://docs.google.com/document/d/1p5ldKBLVd_6W--HnuTahmTNHUtDAf_wQcPy_9k8dshQ/edit?usp=sharing)
 
