@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **adewaleayoola.coding@gmail.com**
 
-- Check out my portfolio **https://aythejuggernaut.vercel.app/about**
-
 - 📄 Know about my experiences [https://docs.google.com/document/d/1p5ldKBLVd_6W--HnuTahmTNHUtDAf_wQcPy_9k8dshQ/edit?usp=sharing](https://docs.google.com/document/d/1p5ldKBLVd_6W--HnuTahmTNHUtDAf_wQcPy_9k8dshQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I love Tech and Business**
